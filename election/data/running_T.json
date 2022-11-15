@@ -1,0 +1,1291 @@
+{
+  "ST" : "0810154527",
+  "TC" : [ {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "000",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 517424,
+      "candVictor" : "*",
+      "tksRate" : 37.45
+    }, {
+      "candNo" : 2,
+      "tks" : 484759,
+      "candVictor" : " ",
+      "tksRate" : 35.08
+    }, {
+      "candNo" : 3,
+      "tks" : 379598,
+      "candVictor" : " ",
+      "tksRate" : 27.47
+    } ],
+    "prof1" : 1381781,
+    "prof2" : 40736,
+    "prof3" : 1422517,
+    "prof4" : 755,
+    "prof5" : 1423272,
+    "prof6" : 878325,
+    "prof7" : 2301597,
+    "profRate" : 61.81,
+    "deptTot" : 38,
+    "deptRcv" : 38,
+    "tboxTot" : 1823,
+    "tboxRcv" : 1823
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "010",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 4593,
+      "candVictor" : "*",
+      "tksRate" : 36.43
+    }, {
+      "candNo" : 2,
+      "tks" : 4428,
+      "candVictor" : " ",
+      "tksRate" : 35.12
+    }, {
+      "candNo" : 3,
+      "tks" : 3588,
+      "candVictor" : " ",
+      "tksRate" : 28.46
+    } ],
+    "prof1" : 12609,
+    "prof2" : 347,
+    "prof3" : 12956,
+    "prof4" : 13,
+    "prof5" : 12969,
+    "prof6" : 8086,
+    "prof7" : 21055,
+    "profRate" : 61.53,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 24,
+    "tboxRcv" : 24
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "020",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 23566,
+      "candVictor" : "*",
+      "tksRate" : 35.99
+    }, {
+      "candNo" : 2,
+      "tks" : 23851,
+      "candVictor" : " ",
+      "tksRate" : 36.42
+    }, {
+      "candNo" : 3,
+      "tks" : 18065,
+      "candVictor" : " ",
+      "tksRate" : 27.59
+    } ],
+    "prof1" : 65482,
+    "prof2" : 1564,
+    "prof3" : 67046,
+    "prof4" : 19,
+    "prof5" : 67065,
+    "prof6" : 46473,
+    "prof7" : 113538,
+    "profRate" : 59.05,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 77,
+    "tboxRcv" : 77
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "030",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 35183,
+      "candVictor" : "*",
+      "tksRate" : 36.73
+    }, {
+      "candNo" : 2,
+      "tks" : 34464,
+      "candVictor" : " ",
+      "tksRate" : 35.98
+    }, {
+      "candNo" : 3,
+      "tks" : 26144,
+      "candVictor" : " ",
+      "tksRate" : 27.29
+    } ],
+    "prof1" : 95791,
+    "prof2" : 2932,
+    "prof3" : 98723,
+    "prof4" : 45,
+    "prof5" : 98768,
+    "prof6" : 59749,
+    "prof7" : 158517,
+    "profRate" : 62.28,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 103,
+    "tboxRcv" : 103
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "040",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 35007,
+      "candVictor" : "*",
+      "tksRate" : 38.54
+    }, {
+      "candNo" : 2,
+      "tks" : 30992,
+      "candVictor" : " ",
+      "tksRate" : 34.12
+    }, {
+      "candNo" : 3,
+      "tks" : 24844,
+      "candVictor" : " ",
+      "tksRate" : 27.35
+    } ],
+    "prof1" : 90843,
+    "prof2" : 2653,
+    "prof3" : 93496,
+    "prof4" : 35,
+    "prof5" : 93531,
+    "prof6" : 58202,
+    "prof7" : 151733,
+    "profRate" : 61.62,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 99,
+    "tboxRcv" : 99
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "050",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 62721,
+      "candVictor" : "*",
+      "tksRate" : 37.13
+    }, {
+      "candNo" : 2,
+      "tks" : 58195,
+      "candVictor" : " ",
+      "tksRate" : 34.45
+    }, {
+      "candNo" : 3,
+      "tks" : 48013,
+      "candVictor" : " ",
+      "tksRate" : 28.42
+    } ],
+    "prof1" : 168929,
+    "prof2" : 4905,
+    "prof3" : 173834,
+    "prof4" : 86,
+    "prof5" : 173920,
+    "prof6" : 107178,
+    "prof7" : 281098,
+    "profRate" : 61.84,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 189,
+    "tboxRcv" : 189
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "060",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 9476,
+      "candVictor" : "*",
+      "tksRate" : 36.33
+    }, {
+      "candNo" : 2,
+      "tks" : 9542,
+      "candVictor" : " ",
+      "tksRate" : 36.58
+    }, {
+      "candNo" : 3,
+      "tks" : 7064,
+      "candVictor" : " ",
+      "tksRate" : 27.08
+    } ],
+    "prof1" : 26082,
+    "prof2" : 691,
+    "prof3" : 26773,
+    "prof4" : 25,
+    "prof5" : 26798,
+    "prof6" : 16554,
+    "prof7" : 43352,
+    "profRate" : 61.76,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 42,
+    "tboxRcv" : 42
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "070",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 5297,
+      "candVictor" : "*",
+      "tksRate" : 37.42
+    }, {
+      "candNo" : 2,
+      "tks" : 4774,
+      "candVictor" : " ",
+      "tksRate" : 33.72
+    }, {
+      "candNo" : 3,
+      "tks" : 4085,
+      "candVictor" : " ",
+      "tksRate" : 28.86
+    } ],
+    "prof1" : 14156,
+    "prof2" : 446,
+    "prof3" : 14602,
+    "prof4" : 8,
+    "prof5" : 14610,
+    "prof6" : 9036,
+    "prof7" : 23646,
+    "profRate" : 61.75,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 22,
+    "tboxRcv" : 22
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "080",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 32352,
+      "candVictor" : "*",
+      "tksRate" : 37.95
+    }, {
+      "candNo" : 2,
+      "tks" : 29496,
+      "candVictor" : " ",
+      "tksRate" : 34.6
+    }, {
+      "candNo" : 3,
+      "tks" : 23412,
+      "candVictor" : " ",
+      "tksRate" : 27.46
+    } ],
+    "prof1" : 85260,
+    "prof2" : 2514,
+    "prof3" : 87774,
+    "prof4" : 44,
+    "prof5" : 87818,
+    "prof6" : 54878,
+    "prof7" : 142696,
+    "profRate" : 61.51,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 116,
+    "tboxRcv" : 116
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "090",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 36882,
+      "candVictor" : "*",
+      "tksRate" : 38.61
+    }, {
+      "candNo" : 2,
+      "tks" : 33557,
+      "candVictor" : " ",
+      "tksRate" : 35.13
+    }, {
+      "candNo" : 3,
+      "tks" : 25093,
+      "candVictor" : " ",
+      "tksRate" : 26.27
+    } ],
+    "prof1" : 95532,
+    "prof2" : 2855,
+    "prof3" : 98387,
+    "prof4" : 45,
+    "prof5" : 98432,
+    "prof6" : 58809,
+    "prof7" : 157241,
+    "profRate" : 62.57,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 119,
+    "tboxRcv" : 119
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "100",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 5245,
+      "candVictor" : "*",
+      "tksRate" : 37.76
+    }, {
+      "candNo" : 2,
+      "tks" : 4752,
+      "candVictor" : " ",
+      "tksRate" : 34.21
+    }, {
+      "candNo" : 3,
+      "tks" : 3895,
+      "candVictor" : " ",
+      "tksRate" : 28.04
+    } ],
+    "prof1" : 13892,
+    "prof2" : 457,
+    "prof3" : 14349,
+    "prof4" : 6,
+    "prof5" : 14355,
+    "prof6" : 9585,
+    "prof7" : 23940,
+    "profRate" : 59.94,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 18,
+    "tboxRcv" : 18
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "110",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 29319,
+      "candVictor" : "*",
+      "tksRate" : 37.76
+    }, {
+      "candNo" : 2,
+      "tks" : 26521,
+      "candVictor" : " ",
+      "tksRate" : 34.16
+    }, {
+      "candNo" : 3,
+      "tks" : 21804,
+      "candVictor" : " ",
+      "tksRate" : 28.08
+    } ],
+    "prof1" : 77644,
+    "prof2" : 2553,
+    "prof3" : 80197,
+    "prof4" : 39,
+    "prof5" : 80236,
+    "prof6" : 49416,
+    "prof7" : 129652,
+    "profRate" : 61.86,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 89,
+    "tboxRcv" : 89
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "120",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 68171,
+      "candVictor" : "*",
+      "tksRate" : 38.37
+    }, {
+      "candNo" : 2,
+      "tks" : 61838,
+      "candVictor" : " ",
+      "tksRate" : 34.81
+    }, {
+      "candNo" : 3,
+      "tks" : 47637,
+      "candVictor" : " ",
+      "tksRate" : 26.82
+    } ],
+    "prof1" : 177646,
+    "prof2" : 5401,
+    "prof3" : 183047,
+    "prof4" : 113,
+    "prof5" : 183160,
+    "prof6" : 111209,
+    "prof7" : 294369,
+    "profRate" : 62.18,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 228,
+    "tboxRcv" : 228
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "130",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 12692,
+      "candVictor" : "*",
+      "tksRate" : 37.27
+    }, {
+      "candNo" : 2,
+      "tks" : 11719,
+      "candVictor" : " ",
+      "tksRate" : 34.41
+    }, {
+      "candNo" : 3,
+      "tks" : 9646,
+      "candVictor" : " ",
+      "tksRate" : 28.32
+    } ],
+    "prof1" : 34057,
+    "prof2" : 979,
+    "prof3" : 35036,
+    "prof4" : 22,
+    "prof5" : 35058,
+    "prof6" : 22624,
+    "prof7" : 57682,
+    "profRate" : 60.74,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 51,
+    "tboxRcv" : 51
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "140",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 20694,
+      "candVictor" : "*",
+      "tksRate" : 35.84
+    }, {
+      "candNo" : 2,
+      "tks" : 21139,
+      "candVictor" : " ",
+      "tksRate" : 36.61
+    }, {
+      "candNo" : 3,
+      "tks" : 15905,
+      "candVictor" : " ",
+      "tksRate" : 27.55
+    } ],
+    "prof1" : 57738,
+    "prof2" : 1694,
+    "prof3" : 59432,
+    "prof4" : 40,
+    "prof5" : 59472,
+    "prof6" : 35677,
+    "prof7" : 95149,
+    "profRate" : 62.46,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 81,
+    "tboxRcv" : 81
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "150",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 8385,
+      "candVictor" : "*",
+      "tksRate" : 39.07
+    }, {
+      "candNo" : 2,
+      "tks" : 7270,
+      "candVictor" : " ",
+      "tksRate" : 33.88
+    }, {
+      "candNo" : 3,
+      "tks" : 5805,
+      "candVictor" : " ",
+      "tksRate" : 27.05
+    } ],
+    "prof1" : 21460,
+    "prof2" : 643,
+    "prof3" : 22103,
+    "prof4" : 12,
+    "prof5" : 22115,
+    "prof6" : 13624,
+    "prof7" : 35739,
+    "profRate" : 61.85,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 32,
+    "tboxRcv" : 32
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "160",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 6430,
+      "candVictor" : "*",
+      "tksRate" : 37.05
+    }, {
+      "candNo" : 2,
+      "tks" : 6232,
+      "candVictor" : " ",
+      "tksRate" : 35.91
+    }, {
+      "candNo" : 3,
+      "tks" : 4694,
+      "candVictor" : " ",
+      "tksRate" : 27.05
+    } ],
+    "prof1" : 17356,
+    "prof2" : 495,
+    "prof3" : 17851,
+    "prof4" : 7,
+    "prof5" : 17858,
+    "prof6" : 11435,
+    "prof7" : 29293,
+    "profRate" : 60.94,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 24,
+    "tboxRcv" : 24
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "170",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 16757,
+      "candVictor" : "*",
+      "tksRate" : 36.86
+    }, {
+      "candNo" : 2,
+      "tks" : 16309,
+      "candVictor" : " ",
+      "tksRate" : 35.87
+    }, {
+      "candNo" : 3,
+      "tks" : 12400,
+      "candVictor" : " ",
+      "tksRate" : 27.27
+    } ],
+    "prof1" : 45466,
+    "prof2" : 1276,
+    "prof3" : 46742,
+    "prof4" : 13,
+    "prof5" : 46755,
+    "prof6" : 27747,
+    "prof7" : 74502,
+    "profRate" : 62.74,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 47,
+    "tboxRcv" : 47
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "180",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 8658,
+      "candVictor" : "*",
+      "tksRate" : 36.31
+    }, {
+      "candNo" : 2,
+      "tks" : 9052,
+      "candVictor" : " ",
+      "tksRate" : 37.96
+    }, {
+      "candNo" : 3,
+      "tks" : 6134,
+      "candVictor" : " ",
+      "tksRate" : 25.73
+    } ],
+    "prof1" : 23844,
+    "prof2" : 718,
+    "prof3" : 24562,
+    "prof4" : 17,
+    "prof5" : 24579,
+    "prof6" : 14451,
+    "prof7" : 39030,
+    "profRate" : 62.93,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 28,
+    "tboxRcv" : 28
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "190",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 17810,
+      "candVictor" : "*",
+      "tksRate" : 36.96
+    }, {
+      "candNo" : 2,
+      "tks" : 17133,
+      "candVictor" : " ",
+      "tksRate" : 35.56
+    }, {
+      "candNo" : 3,
+      "tks" : 13244,
+      "candVictor" : " ",
+      "tksRate" : 27.48
+    } ],
+    "prof1" : 48187,
+    "prof2" : 1384,
+    "prof3" : 49571,
+    "prof4" : 24,
+    "prof5" : 49595,
+    "prof6" : 29659,
+    "prof7" : 79254,
+    "profRate" : 62.55,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 72,
+    "tboxRcv" : 72
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "200",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 7165,
+      "candVictor" : "*",
+      "tksRate" : 37.25
+    }, {
+      "candNo" : 2,
+      "tks" : 6928,
+      "candVictor" : " ",
+      "tksRate" : 36.01
+    }, {
+      "candNo" : 3,
+      "tks" : 5144,
+      "candVictor" : " ",
+      "tksRate" : 26.74
+    } ],
+    "prof1" : 19237,
+    "prof2" : 616,
+    "prof3" : 19853,
+    "prof4" : 10,
+    "prof5" : 19863,
+    "prof6" : 12861,
+    "prof7" : 32724,
+    "profRate" : 60.67,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 31,
+    "tboxRcv" : 31
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "210",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 5567,
+      "candVictor" : "*",
+      "tksRate" : 35.98
+    }, {
+      "candNo" : 2,
+      "tks" : 5531,
+      "candVictor" : " ",
+      "tksRate" : 35.75
+    }, {
+      "candNo" : 3,
+      "tks" : 4374,
+      "candVictor" : " ",
+      "tksRate" : 28.27
+    } ],
+    "prof1" : 15472,
+    "prof2" : 330,
+    "prof3" : 15802,
+    "prof4" : 13,
+    "prof5" : 15815,
+    "prof6" : 9538,
+    "prof7" : 25353,
+    "profRate" : 62.33,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 25,
+    "tboxRcv" : 25
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "220",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 1370,
+      "candVictor" : "*",
+      "tksRate" : 36.33
+    }, {
+      "candNo" : 2,
+      "tks" : 1320,
+      "candVictor" : " ",
+      "tksRate" : 35.0
+    }, {
+      "candNo" : 3,
+      "tks" : 1081,
+      "candVictor" : " ",
+      "tksRate" : 28.67
+    } ],
+    "prof1" : 3771,
+    "prof2" : 66,
+    "prof3" : 3837,
+    "prof4" : 3,
+    "prof5" : 3840,
+    "prof6" : 2568,
+    "prof7" : 6408,
+    "profRate" : 59.88,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 12,
+    "tboxRcv" : 12
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "230",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 5316,
+      "candVictor" : "*",
+      "tksRate" : 37.17
+    }, {
+      "candNo" : 2,
+      "tks" : 4889,
+      "candVictor" : " ",
+      "tksRate" : 34.18
+    }, {
+      "candNo" : 3,
+      "tks" : 4097,
+      "candVictor" : " ",
+      "tksRate" : 28.65
+    } ],
+    "prof1" : 14302,
+    "prof2" : 455,
+    "prof3" : 14757,
+    "prof4" : 14,
+    "prof5" : 14771,
+    "prof6" : 9068,
+    "prof7" : 23839,
+    "profRate" : 61.9,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 21,
+    "tboxRcv" : 21
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "240",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 9494,
+      "candVictor" : "*",
+      "tksRate" : 37.2
+    }, {
+      "candNo" : 2,
+      "tks" : 9054,
+      "candVictor" : " ",
+      "tksRate" : 35.48
+    }, {
+      "candNo" : 3,
+      "tks" : 6971,
+      "candVictor" : " ",
+      "tksRate" : 27.32
+    } ],
+    "prof1" : 25519,
+    "prof2" : 734,
+    "prof3" : 26253,
+    "prof4" : 13,
+    "prof5" : 26266,
+    "prof6" : 16154,
+    "prof7" : 42420,
+    "profRate" : 61.89,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 41,
+    "tboxRcv" : 41
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "250",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 6179,
+      "candVictor" : "*",
+      "tksRate" : 40.52
+    }, {
+      "candNo" : 2,
+      "tks" : 4816,
+      "candVictor" : " ",
+      "tksRate" : 31.58
+    }, {
+      "candNo" : 3,
+      "tks" : 4255,
+      "candVictor" : " ",
+      "tksRate" : 27.9
+    } ],
+    "prof1" : 15250,
+    "prof2" : 542,
+    "prof3" : 15792,
+    "prof4" : 10,
+    "prof5" : 15802,
+    "prof6" : 9334,
+    "prof7" : 25136,
+    "profRate" : 62.83,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 24,
+    "tboxRcv" : 24
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "260",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 5237,
+      "candVictor" : "*",
+      "tksRate" : 35.4
+    }, {
+      "candNo" : 2,
+      "tks" : 5134,
+      "candVictor" : " ",
+      "tksRate" : 34.71
+    }, {
+      "candNo" : 3,
+      "tks" : 4422,
+      "candVictor" : " ",
+      "tksRate" : 29.89
+    } ],
+    "prof1" : 14793,
+    "prof2" : 431,
+    "prof3" : 15224,
+    "prof4" : 11,
+    "prof5" : 15235,
+    "prof6" : 10308,
+    "prof7" : 25543,
+    "profRate" : 59.6,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 21,
+    "tboxRcv" : 21
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "270",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 2600,
+      "candVictor" : "*",
+      "tksRate" : 38.94
+    }, {
+      "candNo" : 2,
+      "tks" : 2226,
+      "candVictor" : " ",
+      "tksRate" : 33.34
+    }, {
+      "candNo" : 3,
+      "tks" : 1851,
+      "candVictor" : " ",
+      "tksRate" : 27.72
+    } ],
+    "prof1" : 6677,
+    "prof2" : 184,
+    "prof3" : 6861,
+    "prof4" : 7,
+    "prof5" : 6868,
+    "prof6" : 4830,
+    "prof7" : 11698,
+    "profRate" : 58.65,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 12,
+    "tboxRcv" : 12
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "280",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 3818,
+      "candVictor" : "*",
+      "tksRate" : 39.3
+    }, {
+      "candNo" : 2,
+      "tks" : 3497,
+      "candVictor" : " ",
+      "tksRate" : 36.0
+    }, {
+      "candNo" : 3,
+      "tks" : 2399,
+      "candVictor" : " ",
+      "tksRate" : 24.7
+    } ],
+    "prof1" : 9714,
+    "prof2" : 347,
+    "prof3" : 10061,
+    "prof4" : 4,
+    "prof5" : 10065,
+    "prof6" : 5837,
+    "prof7" : 15902,
+    "profRate" : 63.27,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 18,
+    "tboxRcv" : 18
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "290",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 6801,
+      "candVictor" : "*",
+      "tksRate" : 36.55
+    }, {
+      "candNo" : 2,
+      "tks" : 6862,
+      "candVictor" : " ",
+      "tksRate" : 36.88
+    }, {
+      "candNo" : 3,
+      "tks" : 4944,
+      "candVictor" : " ",
+      "tksRate" : 26.57
+    } ],
+    "prof1" : 18607,
+    "prof2" : 556,
+    "prof3" : 19163,
+    "prof4" : 11,
+    "prof5" : 19174,
+    "prof6" : 11095,
+    "prof7" : 30269,
+    "profRate" : 63.31,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 28,
+    "tboxRcv" : 28
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "300",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 6815,
+      "candVictor" : "*",
+      "tksRate" : 37.48
+    }, {
+      "candNo" : 2,
+      "tks" : 5736,
+      "candVictor" : " ",
+      "tksRate" : 31.55
+    }, {
+      "candNo" : 3,
+      "tks" : 5631,
+      "candVictor" : " ",
+      "tksRate" : 30.97
+    } ],
+    "prof1" : 18182,
+    "prof2" : 624,
+    "prof3" : 18806,
+    "prof4" : 13,
+    "prof5" : 18819,
+    "prof6" : 11938,
+    "prof7" : 30757,
+    "profRate" : 61.14,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 35,
+    "tboxRcv" : 35
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "310",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 7383,
+      "candVictor" : "*",
+      "tksRate" : 36.34
+    }, {
+      "candNo" : 2,
+      "tks" : 7555,
+      "candVictor" : " ",
+      "tksRate" : 37.18
+    }, {
+      "candNo" : 3,
+      "tks" : 5380,
+      "candVictor" : " ",
+      "tksRate" : 26.48
+    } ],
+    "prof1" : 20318,
+    "prof2" : 563,
+    "prof3" : 20881,
+    "prof4" : 8,
+    "prof5" : 20889,
+    "prof6" : 13173,
+    "prof7" : 34062,
+    "profRate" : 61.3,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 32,
+    "tboxRcv" : 32
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "320",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 2674,
+      "candVictor" : "*",
+      "tksRate" : 38.68
+    }, {
+      "candNo" : 2,
+      "tks" : 2421,
+      "candVictor" : " ",
+      "tksRate" : 35.02
+    }, {
+      "candNo" : 3,
+      "tks" : 1818,
+      "candVictor" : " ",
+      "tksRate" : 26.3
+    } ],
+    "prof1" : 6913,
+    "prof2" : 222,
+    "prof3" : 7135,
+    "prof4" : 2,
+    "prof5" : 7137,
+    "prof6" : 3731,
+    "prof7" : 10868,
+    "profRate" : 65.65,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 12,
+    "tboxRcv" : 12
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "330",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 1259,
+      "candVictor" : "*",
+      "tksRate" : 37.82
+    }, {
+      "candNo" : 2,
+      "tks" : 1270,
+      "candVictor" : " ",
+      "tksRate" : 38.15
+    }, {
+      "candNo" : 3,
+      "tks" : 800,
+      "candVictor" : " ",
+      "tksRate" : 24.03
+    } ],
+    "prof1" : 3329,
+    "prof2" : 85,
+    "prof3" : 3414,
+    "prof4" : 7,
+    "prof5" : 3421,
+    "prof6" : 1801,
+    "prof7" : 5222,
+    "profRate" : 65.38,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 7,
+    "tboxRcv" : 7
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "340",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 1984,
+      "candVictor" : "*",
+      "tksRate" : 34.17
+    }, {
+      "candNo" : 2,
+      "tks" : 2117,
+      "candVictor" : " ",
+      "tksRate" : 36.46
+    }, {
+      "candNo" : 3,
+      "tks" : 1706,
+      "candVictor" : " ",
+      "tksRate" : 29.38
+    } ],
+    "prof1" : 5807,
+    "prof2" : 163,
+    "prof3" : 5970,
+    "prof4" : 3,
+    "prof5" : 5973,
+    "prof6" : 4237,
+    "prof7" : 10210,
+    "profRate" : 58.47,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 10,
+    "tboxRcv" : 10
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "350",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 2821,
+      "candVictor" : "*",
+      "tksRate" : 37.02
+    }, {
+      "candNo" : 2,
+      "tks" : 2682,
+      "candVictor" : " ",
+      "tksRate" : 35.19
+    }, {
+      "candNo" : 3,
+      "tks" : 2118,
+      "candVictor" : " ",
+      "tksRate" : 27.79
+    } ],
+    "prof1" : 7621,
+    "prof2" : 173,
+    "prof3" : 7794,
+    "prof4" : 10,
+    "prof5" : 7804,
+    "prof6" : 4703,
+    "prof7" : 12507,
+    "profRate" : 62.32,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 18,
+    "tboxRcv" : 18
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "360",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 368,
+      "candVictor" : "*",
+      "tksRate" : 43.35
+    }, {
+      "candNo" : 2,
+      "tks" : 269,
+      "candVictor" : " ",
+      "tksRate" : 31.68
+    }, {
+      "candNo" : 3,
+      "tks" : 212,
+      "candVictor" : " ",
+      "tksRate" : 24.97
+    } ],
+    "prof1" : 849,
+    "prof2" : 16,
+    "prof3" : 865,
+    "prof4" : 0,
+    "prof5" : 865,
+    "prof6" : 659,
+    "prof7" : 1524,
+    "profRate" : 56.76,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 3,
+    "tboxRcv" : 3
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "370",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 831,
+      "candVictor" : "*",
+      "tksRate" : 39.16
+    }, {
+      "candNo" : 2,
+      "tks" : 718,
+      "candVictor" : " ",
+      "tksRate" : 33.84
+    }, {
+      "candNo" : 3,
+      "tks" : 573,
+      "candVictor" : " ",
+      "tksRate" : 27.0
+    } ],
+    "prof1" : 2122,
+    "prof2" : 81,
+    "prof3" : 2203,
+    "prof4" : 3,
+    "prof5" : 2206,
+    "prof6" : 1132,
+    "prof7" : 3338,
+    "profRate" : 66.0,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 8,
+    "tboxRcv" : 8
+  }, {
+    "prvCode" : "64",
+    "cityCode" : "000",
+    "deptCode" : "380",
+    "tboxNo" : 0,
+    "candTksInfo" : [ {
+      "candNo" : 1,
+      "tks" : 504,
+      "candVictor" : "*",
+      "tksRate" : 38.07
+    }, {
+      "candNo" : 2,
+      "tks" : 470,
+      "candVictor" : " ",
+      "tksRate" : 35.5
+    }, {
+      "candNo" : 3,
+      "tks" : 350,
+      "candVictor" : " ",
+      "tksRate" : 26.44
+    } ],
+    "prof1" : 1324,
+    "prof2" : 41,
+    "prof3" : 1365,
+    "prof4" : 0,
+    "prof5" : 1365,
+    "prof6" : 966,
+    "prof7" : 2331,
+    "profRate" : 58.56,
+    "deptTot" : 1,
+    "deptRcv" : 1,
+    "tboxTot" : 4,
+    "tboxRcv" : 4
+  } ]
+}
